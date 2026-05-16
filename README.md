@@ -15,7 +15,7 @@ Two experiments were conducted for comparison:
 
 - Dataset: MNIST Handwritten Digits
 - Source: PyTorch torchvision
-- Official Link: http://yann.lecun.com/exdb/mnist/
+- Official Link: [http://yann.lecun.com/exdb/mnist/](https://docs.pytorch.org/vision/stable/datasets.html)
 - Number of classes: 10 (digits 0–9)
 - Image size: 28 × 28 grayscale
 
